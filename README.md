@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+
 - 🔭 I’m currently working on ...Pycharm
 - 🌱 I’m currently learning ...ML Algorithms
 - 🤔 I’m looking for help with ...Getting Hired
